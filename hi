@@ -1,0 +1,23 @@
+[33mcommit 3a5013f069306ef722cd3b20c4529fb04966d6c2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: psmith50 <smitty6123@gmail.com>
+Date:   Fri Dec 17 11:40:37 2021 -0500
+
+    forgot to add index.html file to staging area, whoops!
+
+[33mcommit 08f7f68d230c3b6455c7ee167ec6dd0593fca5dd[m
+Author: psmith50 <smitty6123@gmail.com>
+Date:   Fri Dec 17 11:36:38 2021 -0500
+
+    added recipes folder with lasaga page and description how to bake
+
+[33mcommit bdaf252f94c24f694714583eaf38ab59285101d4[m
+Author: psmith50 <smitty6123@gmail.com>
+Date:   Fri Dec 17 11:20:26 2021 -0500
+
+    updated readme file, self-reflection
+
+[33mcommit 2c44ed4cb6a4b2a1feb9ebb4fb2078209c5bf780[m
+Author: Parker <69760520+psmith50@users.noreply.github.com>
+Date:   Fri Dec 17 11:16:00 2021 -0500
+
+    Initial commit
